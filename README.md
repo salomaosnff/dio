@@ -46,6 +46,7 @@ void getHttp() async {
 | [dio_http_cache](https://github.com/hurshi/dio-http-cache)   | [![Pub](https://img.shields.io/pub/v/dio_http_cache.svg?style=flat-square)](https://pub.dartlang.org/packages/dio_http_cache) | A cache library for Dio, like [Rxcache](https://github.com/VictorAlbertos/RxCache) in Android. dio-http-cache uses [sqflite](https://github.com/tekartik/sqflite) as disk cache, and [LRU](https://github.com/google/quiver-dart) strategy as memory cache. |
 | [retrofit](https://github.com/trevorwang/retrofit.dart/)     | [![Pub](https://img.shields.io/pub/v/retrofit.svg?style=flat-square)](https://pub.dartlang.org/packages/retrofit) | retrofit.dart is an dio client generator using source_gen and inspired by Chopper and Retrofit. |
 | [dio_firebase_performance](https://github.com/eyeem/dio_firebase_performance)     | [![Pub](https://img.shields.io/pub/v/dio_firebase_performance.svg?style=flat-square)](https://pub.dartlang.org/packages/dio_firebase_performance) | A Dio Interceptor for reporting network metrics to Firebase |
+| [oauth_dio](https://github.com/salomaosnff/oauth_dio)     | [![Pub](https://img.shields.io/pub/v/oauth_dio.svg?style=flat-square)](https://pub.dartlang.org/packages/oauth_dio) | A OAuth 2.0 client that uses an interceptor to send bearer access tokens |
 
 ### Related Projects
 
